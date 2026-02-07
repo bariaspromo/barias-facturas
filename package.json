@@ -1,0 +1,20 @@
+{
+  "name": "barias-facturas",
+  "version": "1.0.0",
+  "description": "Invoice management system for restaurants, bars, and liquor stores",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/invoice.test.js"
+  },
+  "keywords": [
+    "invoice",
+    "facturas",
+    "restaurant",
+    "bar",
+    "liquor-store",
+    "billing"
+  ],
+  "author": "Barias Promo",
+  "license": "MIT"
+}
